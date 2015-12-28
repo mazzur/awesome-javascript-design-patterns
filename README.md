@@ -16,9 +16,10 @@
 * [Mastering JavaScript Design Patterns](https://www.goodreads.com/book/show/23847040-mastering-javascript-design-patterns---essential-solutions-for-effective) by Simon Timms
 
 ###Articles
-####Design Patterns in JavaScript Frameworks
+#####Design Patterns in JavaScript Frameworks
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
-####Module
+
+#####Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
 ###Talks
