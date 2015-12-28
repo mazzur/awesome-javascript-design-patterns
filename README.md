@@ -7,6 +7,7 @@
   - [Design patterns in JavaScript frameworks](#design-patterns-in-javascript-frameworks)
   - [In-Depth](#in-depth)
     - [Module] (#module)
+    - [Observer] (#observer)
   - [Architectural](#architectural)
     - [MV*](#mv-star)
   - [Others](#others)
@@ -27,11 +28,11 @@
 ######Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
-#####Observer
+######Observer
 * [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
 
 ####Architectural
-#####MV-star
+######MV-star
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
 
