@@ -5,7 +5,11 @@
 - [Books](#books)
 - [Articles](#articles)
   - [Design patterns in JavaScript frameworks](#design-patterns-in-javascript-frameworks)
-  - [Module] (#module)
+  - [In-Depth](#in-depth)
+    - [Module] (#module)
+  - [Architectural](#architectural)
+    - [MV*](#mv-star)
+  - [Others](#others)
 - [Talks] (#talks)
 - [Other resources](#other-resources)
   
@@ -16,15 +20,15 @@
 * [Mastering JavaScript Design Patterns](https://www.goodreads.com/book/show/23847040-mastering-javascript-design-patterns---essential-solutions-for-effective) by Simon Timms
 
 ###Articles
-####Design Patterns in JavaScript Frameworks
+#####Design Patterns in JavaScript Frameworks
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
 
-####In-depth
-#####Module
+#####In-Depth
+######Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
 ####Architectural
-#####MV\*
+#####MV-star
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
 
