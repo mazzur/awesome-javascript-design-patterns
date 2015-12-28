@@ -45,3 +45,4 @@
 
 ###Other Resources
 * [JavaScript Patterns](https://github.com/shichuan/javascript-patterns) a rich collection of pattern examples
+* [JavaScript Design Patterns](http://www.dofactory.com/javascript/design-patterns) GoF patterns in JavaScript
