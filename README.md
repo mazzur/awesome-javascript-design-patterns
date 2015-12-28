@@ -36,9 +36,10 @@
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
 
 ###Talks
-* [Yo momma's got Javascript design patterns!](https://youtu.be/dMpp1_rJTXU) by Ryan Done
 * [Creating a Scalable JavaScript Application Architecture](https://youtu.be/b5pFv9NB9fs) by Nicholas Zakas
+* [Large Scale JavaScript Application Architecture](https://youtu.be/kNrnRG1YgAQ) by Dan Lynch
 * [MVC Application Structure](https://youtu.be/yIoPlBcW6XA) by Addy Osmani
+* [Yo momma's got Javascript design patterns!](https://youtu.be/dMpp1_rJTXU) by Ryan Done
 
 ###Other Resources
 * [JavaScript Patterns](https://github.com/shichuan/javascript-patterns) a rich collection of pattern examples
