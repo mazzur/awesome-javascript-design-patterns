@@ -16,15 +16,20 @@
 * [Mastering JavaScript Design Patterns](https://www.goodreads.com/book/show/23847040-mastering-javascript-design-patterns---essential-solutions-for-effective) by Simon Timms
 
 ###Articles
-#####Design Patterns in JavaScript Frameworks
+####Design Patterns in JavaScript Frameworks
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
 
+####In-depth
 #####Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
+####Architectural
 #####MV\*
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
+
+####Others
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
 
 ###Talks
 * [Yo momma's got Javascript design patterns!](https://youtu.be/dMpp1_rJTXU) by Ryan Done
@@ -32,4 +37,4 @@
 * [MVC Application Structure](https://youtu.be/yIoPlBcW6XA) by Addy Osmani
 
 ###Other Resources
-* [JavaScript Patterns](https://github.com/shichuan/javascript-patterns) a rich collection of pattern examples 
+* [JavaScript Patterns](https://github.com/shichuan/javascript-patterns) a rich collection of pattern examples
