@@ -22,7 +22,7 @@
 #####Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
-####MV\*
+#####MV\*
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
 
