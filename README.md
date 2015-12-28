@@ -26,6 +26,8 @@
 #####In-Depth
 ######Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
+#####Observer
+* [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
 
 ####Architectural
 #####MV-star
