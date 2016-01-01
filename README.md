@@ -32,7 +32,7 @@
 * [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
 
 ######Factory
-* [JavaScript Design Patterns: Observer: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
+* [JavaScript Design Patterns: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
 
 ####Architectural
 ######MV-star
