@@ -31,6 +31,9 @@
 ######Observer
 * [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
 
+######Factory
+* [JavaScript Design Patterns: Observer: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
+
 ####Architectural
 ######MV-star
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
