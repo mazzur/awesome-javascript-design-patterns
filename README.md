@@ -46,7 +46,7 @@
 ######Flux
 * [Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
 
-####Other articles
+#####Other articles
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
 
