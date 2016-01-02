@@ -18,7 +18,7 @@
 - [Other resources](#other-resources)
   
 ###Books
-* [Learning JavaScript Design Patterns](http://openmymind.net/The-Little-Go-Book/) *free* by Addy Osmani
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) *free* by Addy Osmani
 * [JavaScript Patterns](https://www.goodreads.com/book/show/9422683-javascript-patterns) by Stoyan Stefanov
 * [Pro JavaScript Design Patterns](https://www.goodreads.com/book/show/1960593.Pro_JavaScript_Design_Patterns) by Ross Harmes, Dustin Diaz
 * [Mastering JavaScript Design Patterns](https://www.goodreads.com/book/show/23847040-mastering-javascript-design-patterns---essential-solutions-for-effective) by Simon Timms
