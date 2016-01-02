@@ -39,6 +39,9 @@
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
 
+######Flux
+*[Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
+
 ####Others
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
 
