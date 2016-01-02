@@ -10,6 +10,7 @@
     - [Observer] (#observer)
   - [Architectural](#architectural)
     - [MV*](#mv-star)
+    - [Flux](#flux)
   - [Others](#others)
 - [Talks] (#talks)
 - [Other resources](#other-resources)
@@ -40,7 +41,7 @@
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
 
 ######Flux
-*[Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
+* [Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
 
 ####Others
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
