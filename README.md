@@ -30,6 +30,8 @@
 
 #####Behavioral
 ######Observer
+* [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations) by Miller Medeiros
+* [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/) by Addy Osmani
 * [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
 
 #####Creational
