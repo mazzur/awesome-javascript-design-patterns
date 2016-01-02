@@ -8,6 +8,7 @@
   - [In-Depth](#in-depth)
     - [Module] (#module)
     - [Observer] (#observer)
+    - [Factory] (#factory)
   - [Architectural](#architectural)
     - [MV*](#mv-star)
     - [Flux](#flux)
