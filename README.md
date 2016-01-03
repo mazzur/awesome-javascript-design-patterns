@@ -14,6 +14,7 @@
     - [MV*](#mv-star)
     - [Flux](#flux)
   - [Other articles](#other-articles)
+- [Cources](#cources)
 - [Talks] (#talks)
 - [Other resources](#other-resources)
   
@@ -49,6 +50,11 @@
 #####Other articles
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) by Addy Osmani
+
+###Cources
+* [JavaScript Design Patterns](http://code.tutsplus.com/courses/javascript-design-patterns) on tuts+
+* [Modular JavaScript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) by LearnCode.academy
+* [JavaScript Design Patterns](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkGKjpeiLWz8ydvFEkmRkBn) by Udacity
 
 ###Talks
 * [Creating a Scalable JavaScript Application Architecture](https://youtu.be/b5pFv9NB9fs) by Nicholas Zakas
