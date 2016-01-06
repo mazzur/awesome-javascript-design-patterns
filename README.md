@@ -10,6 +10,7 @@
   - [Structural](#structural)
     - [Module] (#module)
   - [Behavioral](#behavioral)
+    - [Mediator](#mediator)
     - [Observer] (#observer)
     - [Publish/Subscribe](#pub-sub)
   - [Architectural](#architectural)
@@ -39,6 +40,10 @@
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
 
 #####Behavioral
+######Mediator
+* [Event Aggregator And/Or/vs Mediator: A Tale Of Two Patterns](https://lostechies.com/derickbailey/2013/03/18/event-aggregator-andorvs-mediator-a-tale-of-two-patterns/) by Derick Bailey
+* [Loosely Coupled InterModule Communications with Mediator](http://enterprisewebbook.com/ch6_large_js_apps.html#mediator_section) from "Enterprise Web Development. From Desktop to Mobile"
+
 ######Observer
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations) by Miller Medeiros
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/) by Addy Osmani
