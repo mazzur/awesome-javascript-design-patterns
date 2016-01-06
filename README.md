@@ -6,6 +6,7 @@
 - [Articles](#articles)
   - [Creational] (#creational)
     - [Factory] (#factory)
+    - [Singleton](#singleton)
   - [Structural](#structural)
     - [Module] (#module)
   - [Behavioral](#behavioral)
@@ -38,6 +39,9 @@
 #####Creational
 ######Factory
 * [JavaScript Design Patterns: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
+
+######Singleton
+* [JavaScript Design Patterns: Singleton](http://robdodson.me/javascript-design-patterns-singleton/) by Rob Dodson
 
 #####Architectural
 ######MV-star
