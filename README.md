@@ -11,6 +11,7 @@
     - [Module] (#module)
   - [Behavioral](#behavioral)
     - [Observer] (#observer)
+    - [Publish/Subscribe](#pub-sub)
   - [Architectural](#architectural)
     - [MV*](#mv-star)
     - [Flux](#flux)
@@ -35,6 +36,11 @@
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations) by Miller Medeiros
 * [Data-binding Revolutions with Object.observe()](http://www.html5rocks.com/en/tutorials/es7/observe/) by Addy Osmani
 * [JavaScript Design Patterns: Observer](http://robdodson.me/javascript-design-patterns-observer/) by Rob Dodson
+
+######Pub-Sub
+* [Decoupling JavaScript applications using the Publish/Subscribe pattern](http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/) by Emili Parreño
+* [Understanding the Publish/Subscribe Pattern for Greater JavaScript Scalability](https://msdn.microsoft.com/en-us/magazine/hh201955.aspx) by Addy Osmani
+* [Why I should use publish/subscribe in JavaScript](http://blog.mgechev.com/2013/04/24/why-to-use-publishsubscribe-in-javascript/) by Minko Gechev
 
 #####Creational
 ######Factory
