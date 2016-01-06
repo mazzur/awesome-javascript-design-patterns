@@ -27,6 +27,13 @@
 * [Mastering JavaScript Design Patterns](https://www.goodreads.com/book/show/23847040-mastering-javascript-design-patterns---essential-solutions-for-effective) by Simon Timms
 
 ###Articles
+#####Creational
+######Factory
+* [JavaScript Design Patterns: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
+
+######Singleton
+* [JavaScript Design Patterns: Singleton](http://robdodson.me/javascript-design-patterns-singleton/) by Rob Dodson
+
 #####Structural
 ######Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
@@ -41,13 +48,6 @@
 * [Decoupling JavaScript applications using the Publish/Subscribe pattern](http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/) by Emili Parreño
 * [Understanding the Publish/Subscribe Pattern for Greater JavaScript Scalability](https://msdn.microsoft.com/en-us/magazine/hh201955.aspx) by Addy Osmani
 * [Why I should use publish/subscribe in JavaScript](http://blog.mgechev.com/2013/04/24/why-to-use-publishsubscribe-in-javascript/) by Minko Gechev
-
-#####Creational
-######Factory
-* [JavaScript Design Patterns: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
-
-######Singleton
-* [JavaScript Design Patterns: Singleton](http://robdodson.me/javascript-design-patterns-singleton/) by Rob Dodson
 
 #####Architectural
 ######MV-star
