@@ -42,7 +42,7 @@
 #####Behavioral
 ######Mediator
 * [Event Aggregator And/Or/vs Mediator: A Tale Of Two Patterns](https://lostechies.com/derickbailey/2013/03/18/event-aggregator-andorvs-mediator-a-tale-of-two-patterns/) by Derick Bailey
-* [Loosely Coupled InterModule Communications with Mediator](http://enterprisewebbook.com/ch6_large_js_apps.html#mediator_section) from "Enterprise Web Development. From Desktop to Mobile"
+* [Loosely Coupled InterModule Communications with Mediator](http://enterprisewebbook.com/ch6_large_js_apps.html#mediator_section) from "Enterprise Web Development. From Desktop to Mobile" by  Yakov Fain, Victor Rasputnis, Viktor Gamov, and Anatole Tartakovsky
 
 ######Observer
 * [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations) by Miller Medeiros
