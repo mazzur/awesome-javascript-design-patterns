@@ -38,6 +38,7 @@
 #####Structural
 ######Module
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
+* [Modules](http://eloquentjavascript.net/10_modules.html) a chapter from "Eloquent JavaScript" by Marijn Haverbeke
 
 #####Behavioral
 ######Mediator
