@@ -64,6 +64,8 @@
 
 ######Flux
 * [Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
+* [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture) by Ken Wheeler
+* [What is Flux?](http://fluxxor.com/what-is-flux.html) by Michelle Tilley
 
 #####Other articles
 * [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) by Minko Gechev
