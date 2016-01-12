@@ -71,7 +71,11 @@
 #####Architectural
 ######MV-star
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) A List Apart article
+* [Journey Through The JavaScript MVC Jungle](https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/) by Addy Osmani
 * [Model-View-Controller (MVC) with JavaScript](https://alexatnet.com/articles/model-view-controller-mvc-javascript) by Alex Netkachov
+* [MVC Architecture](https://developer.chrome.com/apps/app_frameworks) by Chrome developers
+* [MVC Architecture](https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture/MVC_architecture) at MDN
+* [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/) by Addy Osmani
 
 ######Flux
 * [Flux Overview](https://facebook.github.io/flux/docs/overview.html#content) by Facebook
