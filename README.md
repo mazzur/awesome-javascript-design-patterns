@@ -81,3 +81,6 @@
 ###Other Resources
 * [JavaScript Design Patterns](http://www.dofactory.com/javascript/design-patterns) GoF patterns in JavaScript
 * [JavaScript Patterns](https://github.com/shichuan/javascript-patterns) a rich collection of pattern examples
+
+## License
+Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
