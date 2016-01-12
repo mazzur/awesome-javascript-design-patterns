@@ -10,11 +10,14 @@
     - [Factory] (#factory)
     - [Singleton](#singleton)
   - [Structural](#structural)
-    - [Module] (#module)
+    - [Decorator](#decorator)
+    - [Facade](#facade)
   - [Behavioral](#behavioral)
     - [Mediator](#mediator)
     - [Observer] (#observer)
     - [Publish/Subscribe](#pub-sub)
+  - [JS-specific](#js-specific)
+    - [Module] (#module)
   - [Architectural](#architectural)
     - [MV*](#mv-star)
     - [Flux](#flux)
@@ -38,9 +41,12 @@
 * [JavaScript Design Patterns: Singleton](http://robdodson.me/javascript-design-patterns-singleton/) by Rob Dodson
 
 #####Structural
-######Module
-* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
-* [Modules](http://eloquentjavascript.net/10_modules.html) a chapter from "Eloquent JavaScript" by Marijn Haverbeke
+######Decorator
+* [Exploring ES2016 Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.tkqihbpde) by Addy Osmani
+* [Exploring The Decorator Pattern In JavaScript & jQuery](https://addyosmani.com/blog/decorator-pattern/) by Addy Osmani
+
+######Facade
+* [The Facade Pattern](https://carldanley.com/js-facade-pattern/) by Carl Danley
 
 #####Behavioral
 ######Mediator
@@ -56,6 +62,11 @@
 * [Decoupling JavaScript applications using the Publish/Subscribe pattern](http://dev.housetrip.com/2014/09/15/decoupling-javascript-apps-using-pub-sub-pattern/) by Emili Parreño
 * [Understanding the Publish/Subscribe Pattern for Greater JavaScript Scalability](https://msdn.microsoft.com/en-us/magazine/hh201955.aspx) by Addy Osmani
 * [Why I should use publish/subscribe in JavaScript](http://blog.mgechev.com/2013/04/24/why-to-use-publishsubscribe-in-javascript/) by Minko Gechev
+
+####JS-specific
+######Module
+* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) by Todd Motto
+* [Modules](http://eloquentjavascript.net/10_modules.html) a chapter from "Eloquent JavaScript" by Marijn Haverbeke
 
 #####Architectural
 ######MV-star
