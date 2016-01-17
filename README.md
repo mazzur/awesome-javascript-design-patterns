@@ -35,6 +35,7 @@
 ###Articles
 #####Creational
 ######Factory
+* [Factory Function Pattern In-Depth](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.sw3kpn3gs) by Ronald Chen
 * [JavaScript Design Patterns: Factory](http://robdodson.me/javascript-design-patterns-factory/) by Rob Dodson
 
 ######Singleton
